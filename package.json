@@ -1,7 +1,7 @@
 {
   "name": "@ladjs/country-language",
   "description": "Query languages spoken to a country or countries where people speak a language.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": {
     "name": "Tassos Diamantidis",
     "email": "tassos@inruntime.com"

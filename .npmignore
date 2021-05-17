@@ -1,7 +1,8 @@
 .git*
 test/
 puppet/
-dataCompilation/
+dataCompilation
+dataCompilation/*
 Vagrantfile
 .vagrant
 .DS_Store

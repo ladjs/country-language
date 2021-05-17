@@ -7,7 +7,7 @@
     "email": "tassos@inruntime.com"
   },
   "bugs": {
-    "url": "https://github.com/bdswiss/country-language/issues",
+    "url": "https://github.com/ladjs/country-language/issues",
     "email": "opensource@bdswiss.com"
   },
   "dependencies": {
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:bdswiss/country-language.git"
+    "url": "git@github.com:ladjs/country-language.git"
   },
   "scripts": {
     "check": "tsc",

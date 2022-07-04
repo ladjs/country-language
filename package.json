@@ -1,7 +1,7 @@
 {
   "name": "@ladjs/country-language",
   "description": "Maintained fork of country-language with zero-dependencies. Query languages spoken to a country or countries where people speak a language.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Tassos Diamantidis",
     "email": "tassos@inruntime.com"

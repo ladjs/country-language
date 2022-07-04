@@ -34,7 +34,6 @@
   },
   "files": [
     "index.js",
-    "utils.js",
     "data.json"
   ],
   "homepage": "https://github.com/ladjs/country-language",

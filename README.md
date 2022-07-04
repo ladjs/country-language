@@ -1,11 +1,11 @@
-# [**@ladjs/country-language**](https://github.com/ladjs/country-languages)
+# [**@ladjs/country-language**](https://github.com/ladjs/country-language)
 
-[![build status](https://github.com/ladjs/country-languages/actions/workflows/ci.yml/badge.svg)](https://github.com/ladjs/country-languages/actions/workflows/ci.yml)
-[![code coverage](https://img.shields.io/codecov/c/github/ladjs/country-languages.svg)](https://codecov.io/gh/ladjs/country-languages)
+[![build status](https://github.com/ladjs/country-language/actions/workflows/ci.yml/badge.svg)](https://github.com/ladjs/country-language/actions/workflows/ci.yml)
+[![code coverage](https://img.shields.io/codecov/c/github/ladjs/country-language.svg)](https://codecov.io/gh/ladjs/country-language)
 [![code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![made with lass](https://img.shields.io/badge/made_with-lass-95CC28.svg)](https://lass.js.org)
-[![license](https://img.shields.io/github/license/ladjs/country-languages.svg)]()
+[![license](https://img.shields.io/github/license/ladjs/country-language.svg)]()
 
 > **Maintained fork of country-language with zero-dependencies.** Query any country's spoken languages or countries where a language is spoken.
 

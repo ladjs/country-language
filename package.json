@@ -1,6 +1,6 @@
 {
   "name": "@ladjs/country-language",
-  "description": "Query languages spoken to a country or countries where people speak a language.",
+  "description": "Maintained fork of country-language with zero-dependencies. Query languages spoken to a country or countries where people speak a language.",
   "version": "0.2.1",
   "author": {
     "name": "Tassos Diamantidis",
@@ -8,19 +8,36 @@
   },
   "bugs": {
     "url": "https://github.com/ladjs/country-language/issues",
-    "email": "opensource@bdswiss.com"
+    "email": "github@titanism.com"
   },
-  "dependencies": {
-    "underscore": "~1.13.1",
-    "underscore.deep": "~0.5.1"
-  },
+  "contributors": [
+    "titanism"
+  ],
+  "dependencies": {},
   "devDependencies": {
-    "mocha": "^8.4.0",
-    "typescript": "^4.2.4"
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-conventional": "^17.0.3",
+    "ava": "^4.3.0",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.19.0",
+    "eslint-config-xo-lass": "^2.0.1",
+    "fixpack": "^4.0.0",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "nyc": "^15.1.0",
+    "remark-cli": "^11.0.0",
+    "remark-preset-github": "^4.0.4",
+    "xo": "^0.50.0"
   },
   "engines": {
-    "node": "*"
+    "node": ">= 14"
   },
+  "files": [
+    "index.js",
+    "utils.js",
+    "data.json"
+  ],
+  "homepage": "https://github.com/ladjs/country-language",
   "keywords": [
     "country",
     "language",
@@ -34,12 +51,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ladjs/country-language.git"
+    "url": "https://github.com/ladjs/country-language"
   },
   "scripts": {
-    "check": "tsc",
-    "lint": "eslint --fix .",
-    "test": "make test"
-  },
-  "types": "index.d.ts"
+    "lint": "xo --fix && remark . -qfo && fixpack",
+    "prepare": "husky install",
+    "pretest": "npm run lint",
+    "test": "cross-env NODE_ENV=test nyc ava"
+  }
 }

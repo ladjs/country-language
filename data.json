@@ -726,11 +726,6 @@
           "cultureCode": "0x1404"
         },
         {
-          "langCultureName": "zh-SG",
-          "displayName": "Chinese - Singapore",
-          "cultureCode": "0x1004"
-        },
-        {
           "langCultureName": "zh-TW",
           "displayName": "Chinese - Taiwan",
           "cultureCode": "0x0404"
@@ -1118,6 +1113,11 @@
           "langCultureName": "en-ZW",
           "displayName": "English - Zimbabwe",
           "cultureCode": "0x3009"
+        },
+        {
+          "langCultureName": "en-SG",
+          "displayName": "English - Singapore",
+          "cultureCode": "0x1004"
         }
       ]
     },
@@ -10926,15 +10926,15 @@
       "numCode": "702",
       "name": "Singapore",
       "languages": [
-        "zho",
         "eng",
+        "zho",
         "msa",
         "tam"
       ],
       "langCultureMs": [
         {
-          "langCultureName": "zh-SG",
-          "displayName": "Chinese - Singapore",
+          "langCultureName": "en-SG",
+          "displayName": "English - Singapore",
           "cultureCode": "0x1004"
         }
       ]

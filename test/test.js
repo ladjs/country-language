@@ -1,4 +1,8 @@
-var lib = require('./index.js');
+const test = require('ava');
+
+const lib = require('..');
+
+test.todo('write tests');
 
 console.log('~~~~~~~~~~~~~ getCountries');
 console.log(lib.getCountries());
@@ -28,7 +32,9 @@ console.log('~~~~~~~~~~~~~ getLanguageMsLocales');
 console.log(lib.getLanguageMsLocales('en'));
 
 console.log('~~~~~~~~~~~~~ getLanguageFamilyMembers');
-console.log(JSON.stringify(lib.getLanguageFamilyMembers('Austronesian'), null, 2));
+console.log(
+  JSON.stringify(lib.getLanguageFamilyMembers('Austronesian'), null, 2)
+);
 
 console.log('~~~~~~~~~~~~~ getLanguageCodes');
 console.log(JSON.stringify(lib.getLanguageCodes(3), null, 2));

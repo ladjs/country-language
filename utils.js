@@ -1,4 +1,4 @@
 exports.isFunction = function (fn) {
-  var getType = {};
+  const getType = {};
   return fn && getType.toString.call(fn) === '[object Function]';
 };

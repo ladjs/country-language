@@ -3,7 +3,7 @@
     "Northwest Caucasian",
     "Afro-Asiatic",
     "Indo-European",
-    "Niger–Congo",
+    "Niger-Congo",
     "Northeast Caucasian",
     "Aymaran",
     "Turkic",
@@ -16,15 +16,15 @@
     "Uralic",
     "South Caucasian",
     "Tupian",
-    "Eskimo–Aleut",
+    "Eskimo-Aleut",
     "Japonic",
     "Dravidian",
     "Nilo-Saharan",
     "Austroasiatic",
     "Koreanic",
-    "Tai–Kadai",
+    "Tai-Kadai",
     "Mongolic",
-    "Dené–Yeniseian",
+    "Dené-Yeniseian",
     "Niger-Congo",
     "Quechuan"
   ],
@@ -97,7 +97,7 @@
         "Akan"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "GHA"
       ]
@@ -406,7 +406,7 @@
         "bamanankan"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "MLI"
       ]
@@ -682,7 +682,7 @@
         "chinyanja"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "MWI"
       ]
@@ -1172,7 +1172,7 @@
         "Eʋegbe"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "GHA",
         "TGO"
@@ -1349,7 +1349,7 @@
         "Pular"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "BEN",
         "BFA",
@@ -1592,7 +1592,7 @@
         "Otjiherero"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo"
+      "family": "Niger-Congo"
     },
     {
       "iso639_1": "hi",
@@ -1742,7 +1742,7 @@
         "Asụsụ Igbo"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "NGA"
       ]
@@ -1760,7 +1760,7 @@
         "Iñupiatun"
       ],
       "direction": "LTR",
-      "family": "Eskimo–Aleut"
+      "family": "Eskimo-Aleut"
     },
     {
       "iso639_1": "io",
@@ -1846,7 +1846,7 @@
         "ᐃᓄᒃᑎᑐᑦ"
       ],
       "direction": "LTR",
-      "family": "Eskimo–Aleut"
+      "family": "Eskimo-Aleut"
     },
     {
       "iso639_1": "ja",
@@ -1900,7 +1900,7 @@
         "kalaallit oqaasii"
       ],
       "direction": "LTR",
-      "family": "Eskimo–Aleut"
+      "family": "Eskimo-Aleut"
     },
     {
       "iso639_1": "kn",
@@ -2011,7 +2011,7 @@
         "Gĩkũyũ"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo"
+      "family": "Niger-Congo"
     },
     {
       "iso639_1": "rw",
@@ -2025,7 +2025,7 @@
         "Ikinyarwanda"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "RWA"
       ]
@@ -2081,7 +2081,7 @@
         "Kikongo"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "AGO",
         "COD",
@@ -2145,7 +2145,7 @@
         "Kuanyama"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "AGO"
       ]
@@ -2198,7 +2198,7 @@
         "Luganda"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo"
+      "family": "Niger-Congo"
     },
     {
       "iso639_1": "li",
@@ -2228,7 +2228,7 @@
         "Lingála"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "COD",
         "COG"
@@ -2246,7 +2246,7 @@
         "ພາສາລາວ"
       ],
       "direction": "LTR",
-      "family": "Tai–Kadai",
+      "family": "Tai-Kadai",
       "countries": [
         "LAO"
       ]
@@ -2287,7 +2287,7 @@
         "Tshiluba"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "COD"
       ]
@@ -2543,7 +2543,7 @@
         "Dinékʼehǰí"
       ],
       "direction": "LTR",
-      "family": "Dené–Yeniseian"
+      "family": "Dené-Yeniseian"
     },
     {
       "iso639_1": "nb",
@@ -2581,7 +2581,7 @@
         "isiNdebele"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "ZAF",
         "ZWE"
@@ -2633,7 +2633,7 @@
         "Owambo"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo"
+      "family": "Niger-Congo"
     },
     {
       "iso639_1": "nn",
@@ -2702,7 +2702,7 @@
         "isiNdebele"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "ZAF"
       ]
@@ -2993,7 +2993,7 @@
         "Ikirundi"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "BDI"
       ]
@@ -3203,7 +3203,7 @@
         "chiShona"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "ZWE"
       ]
@@ -3308,7 +3308,7 @@
         "Sesotho"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "LSO",
         "ZAF"
@@ -3477,7 +3477,7 @@
         "Kiswahili"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "COD",
         "KEN",
@@ -3504,7 +3504,7 @@
         "SiSwati"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "SWZ",
         "ZAF"
@@ -3624,7 +3624,7 @@
         "ไทย"
       ],
       "direction": "LTR",
-      "family": "Tai–Kadai",
+      "family": "Tai-Kadai",
       "countries": [
         "THA"
       ],
@@ -3733,7 +3733,7 @@
         "Setswana"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "BWA",
         "ZAF"
@@ -3790,7 +3790,7 @@
         "Xitsonga"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "ZAF"
       ]
@@ -3829,7 +3829,7 @@
         "Twi"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo"
+      "family": "Niger-Congo"
     },
     {
       "iso639_1": "ty",
@@ -3953,7 +3953,7 @@
         "Tshivenḓa"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "ZAF"
       ]
@@ -4039,7 +4039,7 @@
         "Wollof"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "SEN"
       ]
@@ -4070,7 +4070,7 @@
         "isiXhosa"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "ZAF"
       ]
@@ -4101,7 +4101,7 @@
         "Yorùbá"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "BEN",
         "NGA"
@@ -4121,7 +4121,7 @@
         "Saw cuengh"
       ],
       "direction": "LTR",
-      "family": "Tai–Kadai"
+      "family": "Tai-Kadai"
     },
     {
       "iso639_1": "zu",
@@ -4135,7 +4135,7 @@
         "isiZulu"
       ],
       "direction": "LTR",
-      "family": "Niger–Congo",
+      "family": "Niger-Congo",
       "countries": [
         "ZAF"
       ]

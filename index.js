@@ -128,8 +128,10 @@ exports.getCountry = function (code, cb, noLangInfo) {
     if (!noLangInfo) {
       langs = country.languages;
       country.languages = [];
-      for (const l of langs) {
-        country.languages.push(exports.getLanguage(l, null, true));
+      if (langs) {
+        for (const l of langs) {
+          country.languages.push(exports.getLanguage(l, null, true));
+        }
       }
     }
 

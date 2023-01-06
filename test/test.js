@@ -53,3 +53,6 @@ console.log(JSON.stringify(lib.getLocales(), null, 2));
 
 console.log('~~~~~~~~~~~~~ getLocales(true)');
 console.log(JSON.stringify(lib.getLocales(true), null, 2));
+
+console.log('~~~~~~~~~~~~~ getCountryLanguages');
+console.log(lib.getCountryLanguages('PS'));
